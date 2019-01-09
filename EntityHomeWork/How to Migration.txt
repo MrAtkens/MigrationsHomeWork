@@ -1,0 +1,7 @@
+open nuget console
+
+enable-migration
+
+Add-Migration "Migration_Name"
+
+Update-Database
